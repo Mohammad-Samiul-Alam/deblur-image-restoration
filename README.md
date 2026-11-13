@@ -25,7 +25,9 @@ A single-file desktop application for **automatic image deblurring and restorati
 | Main window | Before / After |
 |---|---|
 | ![Main window](images/01_gaussian_noise_degraded.png) | ![Before and after](images/00_clean_reference.png) |
-![Main window](images/montage_results.png)
+<p align="center">
+  <img src="images/montage_results.png" alt="Main window" width="100%">
+</p>
 
 ## Installation
 
