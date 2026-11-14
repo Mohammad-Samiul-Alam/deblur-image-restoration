@@ -8,11 +8,11 @@ Documentation: https://mohammad-samiul-alam.github.io/deblur-image-restoration/
             Home
         </a>
     </li>
-    <li>
+    <!-- <li>
         <a href="https://mohammad-samiul-alam.github.io/deblur-image-restoration/filter_documentation.html">
             Filter Documentation
         </a>
-    </li>
+    </li> -->
     <li>
         <a href="https://mohammad-samiul-alam.github.io/deblur-image-restoration/software_documentation.html">
             Software Documentation
