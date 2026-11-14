@@ -5,7 +5,7 @@ Documentation: https://mohammad-samiul-alam.github.io/deblur-image-restoration/
 <ul>
     <li>
         <a href="https://mohammad-samiul-alam.github.io/deblur-image-restoration/">
-            Home
+            Home / Filter Documentation
         </a>
     </li>
     <!-- <li>
