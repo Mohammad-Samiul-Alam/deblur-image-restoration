@@ -3,9 +3,26 @@ Documentation: https://mohammad-samiul-alam.github.io/deblur-image-restoration/
 <h1>Deblur Image Restoration</h1>
 
 <ul>
-    <li><a href="filter_documentation.html">Filter Documentation</a></li>
-    <li><a href="software_documentation.html">Software Documentation</a></li>
-    <li><a href="index/viva_exam_documentation.html">Viva Exam Documentation</a></li>
+    <li>
+        <a href="https://mohammad-samiul-alam.github.io/deblur-image-restoration/">
+            Home
+        </a>
+    </li>
+    <li>
+        <a href="https://mohammad-samiul-alam.github.io/deblur-image-restoration/filter_documentation.html">
+            Filter Documentation
+        </a>
+    </li>
+    <li>
+        <a href="https://mohammad-samiul-alam.github.io/deblur-image-restoration/software_documentation.html">
+            Software Documentation
+        </a>
+    </li>
+    <li>
+        <a href="https://mohammad-samiul-alam.github.io/deblur-image-restoration/viva_exam_documentation.html">
+            Viva Exam Documentation
+        </a>
+    </li>
 </ul>
 
 
