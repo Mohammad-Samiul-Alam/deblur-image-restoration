@@ -1,4 +1,4 @@
-https://mohammad-samiul-alam.github.io/deblur-image-restoration/
+Documentation: https://mohammad-samiul-alam.github.io/deblur-image-restoration/
 # Image Deblurring & Restoration Studio
 
 A single-file desktop application for **automatic image deblurring and restoration** using traditional Digital Image Processing (DIP) techniques. Upload an image and the app analyses it, recommends a restoration plan with the reason for every step, and applies it automatically. You can then fine-tune everything manually.
